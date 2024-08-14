@@ -1,5 +1,5 @@
 Api end point
-https://bitespeed-zpvw.onrender.com/identify
+https://bitespeed-zpvw.onrender.com/api/identify
 
 JSON body format
 {
